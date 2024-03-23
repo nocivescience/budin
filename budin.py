@@ -1,5 +1,4 @@
 from manim import *
-import itertools as it
 class Budin(Scene):
     CONFIG={
         "circle_style":{
